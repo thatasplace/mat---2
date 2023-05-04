@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport" content="width=device-width, initial-scale=1.0"
+    <title>Turma G</title>
+    <link rel="stylesheet"href="style.css"
+</head>
+<body>
+    <header class="cabeçalho">
+    <img class="cabeçalho-logo" src="CEEV logo.png"alt="logo do Colégio">
+    <ul class="cabeçalho lista">
+    <li class="cabeçalho-itens">Alunos</li>
+    <li class="cabeçalho-itens">Professores</li>
+    </ul>
+
+</header>
+<section class="escola">
+    <h1 class="escola=título">COLÉGIO ESTADUAL ÉRICO VERÍSSIMO- FAXINAL-PR</h1>
+
+    <p class="escola-paragrafo">ESCOLA  INTEGRAL</p>
+
+
+
+    <div class="galeria -todos">
+
+    </div>
+    </selection>
+
